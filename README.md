@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on:
-  - [Shippingboapy](https://github.com/trynogaunt/ShippingboAPY): Python wrapper for Shippingbo api
+  - [RPyG](https://github.com/trynogaunt/RpyG): Python Commadn Line Retro RPG
           
 - 📫 How to reach me: toussaint.quentin00@gmail.com
 
