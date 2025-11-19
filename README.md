@@ -8,6 +8,7 @@ Python · CLI Design · JSON Systems · Symfony · Docker · Git · VBA
 
 ### Current projects
 - [RPyG](https://github.com/trynoagunt/RPyG): Python Command Line Retro RPG
+
 ⭐️ Stars and feedback are welcome!
 
 ### Contact
