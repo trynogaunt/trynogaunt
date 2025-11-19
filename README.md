@@ -6,9 +6,8 @@
 ### Skills
 Python · CLI Design · JSON Systems · Symfony · Docker · Git · VBA
 
+### Current projects
+- [RPyG](https://github.com/trynoagunt/RPyG): Python Command Line Retro RPG
 
-- Currently working on **RPyG** (Python RPG engine)  
-- I enjoy crafting gameplay systems and clean dev workflows
-
-⭐️ Check the project → https://github.com/trynoagunt/RPyG  
+### Contact
 📬 toussaint.quentin00@gmail.com
